@@ -1,11 +1,11 @@
-A simple Tic-Tac-Toe game!
+# Tic Tac Toe
 
-Features:
+A vanilla JS web app which allows you to play a game of "Tic-Tac-Toe" vs a friend or vs AI
 
--Play vs Friend or vs unbeatable AI
+## Features:
 
--Makes use of the Minimax Algorithm
+* Implements the "Minimax Algorithm" in order to create an unwinnable AI
 
--Uses factory & modules in Javascript
+* __Single Page Website Design -__ Implements a minimalistic design, utilizing various animations to display the content in one page.
 
--One page website design
+
